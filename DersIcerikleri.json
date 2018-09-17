@@ -1,0 +1,199 @@
+{
+    "Ingilizce": {
+        "Ders": "İngilizce",
+        "Kodu": "DIL 101",
+        "Yarıyıl": 1,
+        "Saat": "4+0",
+        "Kredi": 4,
+        "AKTS": 4,
+        "OnKosulDersleri": "",
+        "OnerilenSecmeliDersler": "",
+        "DersinDili": "Türkçe",
+        "DersinSeviyesi": "Lisans",
+        "DersinTürü": "Zorunlu",
+        "DersinKoordinatörü": "Okt.Mustafa NEHRİ",
+        "DersiVeren": [
+            "Okt. MAHMUT BİRLİK",
+            "Okt. SEDA İLHAN",
+            "Okt. TUBA PELİN ÖRS",
+            "Okt. BERRİN YILDIZ KANYILMAZ",
+            "Okt. ERKAN ÖZDEN",
+            "Okt. ÖZLEM ŞİMŞEK",
+            "Okt. YASEMİN OCAK KOYUNCU",
+            "Okt. GÜLŞEN ÖZDEMİR",
+            "Okt. KENAN YERLİ",
+            "Okt. NERMİN KICIR",
+            "Okt. HÜSEYİN İSEN",
+            "Okt.Dr. HALİL İBRAHİM BALKUL",
+            "Okt. NURDAN KARASU",
+            "Okt. DENİZ GAZİ",
+            "Okt. ZEKİ KÜP",
+            "Okt. GÜL TÜRKMEN",
+            "Okt. HÜLYA YILMAZ ÇAMUR",
+            "Okt. MUSTAFA NEHRİ",
+            "Okt. GÜL ÖREN KIR",
+            "Okt. AHMET USTA",
+            "Okt. AYŞE CELEPLİ",
+            "Okt. LÜTFİYE SARIYILDIZ"
+        ],
+        "DersinYardımcıları": "Yabancı Diller Yüksekokulu Öğretim Elemanları",
+        "DersinAmacı": "Bu ders ile öğrencilerin, European Language Portfolio Global Scale B1 düzeyinde İngilizcede - Temel dilbilgisine sahip olmaları - Dinlediklerini anlamaları - Karşılıklı konuşabilmeleri- Okuduklarını anlamaları- Kendilerini yazıyla ifade edebilmeleri amaçlanmaktadır",
+        "DersinIcerigi": "Öğrencilerin sonraki yıllarda görecekleri mesleki İngilizce derslerini takip edebilmeleri, lisans sonrası ve meslek hayatlarında ihtiyaç duyacakları İngilizce´ye temel oluşturacak seviyede İngilizce dilbilgisi, kelime dağarcığı, okuduğunu anlama, sözlü anlatım ve yazma becerileri"
+    },
+
+    "Fizik": {
+        "Ders": "Fizik 2",
+        "Kodu": "Fiz 112",
+        "Yarıyıl": 2,
+        "Saat": "3+2",
+        "Kredi": 4,
+        "AKTS": 6,
+        "OnKosulDersleri": "",
+        "OnerilenSecmeliDersler": "",
+        "DersinDili": "Türkçe",
+        "DersinSeviyesi": "Lisans",
+        "DersinTürü": "Zorunlu",
+        "DersinKoordinatörü": "Doç.Dr. HAKAN YAKUT",
+        "DersiVeren": [
+            "Prof.Dr. RECEP AKKAYA",
+            "Yrd.Doç.Dr. MEHMET KAYMAK",
+            "Doç.Dr. ADİL BAŞOĞLU",
+            "Doç.Dr. SADIK BAĞCI",
+            "Prof.Dr. MEHMET BEKTAŞOĞLU",
+            "Doç.Dr. HAKAN YAKUT",
+            "Doç.Dr. DAVUT AVCI",
+            "Prof.Dr. BARIŞ TAMER TONGUÇ",
+            "Prof.Dr. HÜSEYİN MURAT TÜTÜNCÜ",
+            "Doç.Dr. ALİ ÇORUH",
+            "Yrd.Doç.Dr. HACI AHMET YILDIRIM",
+            "Doç.Dr. ALİ SERDAR ARIKAN",
+            "Yrd.Doç.Dr. NAGİHAN DELİBAŞ",
+            "Doç.Dr. YUSUF ATALAY",
+            "Prof.Dr. LEYLA ÖZDEMİR",
+            "Doç.Dr. FİLİZ ERTUĞRAL",
+            "Arş.Gör.Dr. EMRE TABAR",
+            "Uzm.Dr. ÖMER TAMER"
+        ],
+        "DersinYardımcıları": "Fizik Bölümü Öğretim Üyeleri",
+        "DersinAmacı": "Öğrencilere mühendislik eğitiminde gerekli olan temel elektrik ve manyetizma alt yapısının kazandırılması",
+        "DersinIcerigi": "Coulomb Kuvveti, Elektrik Alan, Elektrik Akısı, Gauss Yasası, Elektriksel Potansiyel, Kondansatörler, Akımın oluşumu ve Direnç, Doğru Akım Devreleri, Kirchhoff Kanunları, Manyetik Alan, Biot-Savart Yasası, Ampere Yasası, İndüksiyon, Faraday Yasası, Lenz Kanunu, İndüktans, Manyetik Alanda Enerji, LC Devresinde Salınımlar, Elektromanyetik dalgalar"
+    },
+
+    "Matematik": {
+        "Ders": "MATEMATİK II",
+        "Kodu": "MAT 112",
+        "Yarıyıl": 2,
+        "Saat": "4+0",
+        "Kredi": 4,
+        "AKTS": 6,
+        "OnKosulDersleri": "Matematik I dersinin alınmış olması tavsiye edilir.",
+        "OnerilenSecmeliDersler": "",
+        "DersinDili": "Türkçe",
+        "DersinSeviyesi": "Lisans",
+        "DersinTürü": "Zorunlu",
+        "DersinKoordinatörü": "Prof.Dr. MEHMET ALİ GÜNGÖR",
+        "DersiVeren": [
+            "Yrd.Doç.Dr. İBRAHİM ÖZGÜR",
+            "Yrd.Doç.Dr. OSMAN SONALCAN",
+            "Doç.Dr. SELMA ALTUNDAĞ",
+            "Doç.Dr. SOLEY ERSOY",
+            "Yrd.Doç.Dr. MURAT SARDUVAN",
+            "Doç.Dr. MUSTAFA ERÖZ",
+            "Doç.Dr. MAHPEYKER ÖZTÜRK",
+            "Doç.Dr. İSMET ALTINTAŞ",
+            "Doç.Dr. MURAT GÜZELTEPE",
+            "Yrd.Doç.Dr. MAHMUT AKYİĞİT",
+            "Doç.Dr. YALÇIN YILMAZ",
+            "Prof.Dr. ÖMER FARUK GÖZÜKIZIL",
+            "Doç.Dr. ŞEVKET GÜR",
+            "Doç.Dr. METİN YAMAN",
+            "Yrd.Doç.Dr. MEHMET GÜNER",
+            "Prof.Dr. MEHMET ALİ GÜNGÖR",
+            "Doç.Dr. ELMAN HAZAR",
+            "Arş.Gör. HİDAYET HÜDA KÖSAL",
+            "Arş.Gör. TUĞBA PETİK"
+
+        ],
+        "DersinYardımcıları": "Matematik Bölümü araştırma görevlileri",
+        "DersinAmacı": "Belirsiz integral alma metotları , Belirli integral tanımı ve özellikleri, ilgili teoremler, belirli integralin uygulamaları (Alan, yay uzunluğu, hacım hesabı , yüzey alanı hesabı), Genelleştirilmiş integraller ve özelliklerinin verilmesi, çok değişkenli fonksiyonlar.",
+        "DersinIcerigi": "Belirsiz integral, integral alma metotları, Belirli integralinin özellikleri, ilgili teoremler, Belirli integralin uygulamaları (Alan, yay uzunluğu, hacım hesabı, yüzey alanı hesabı ) Genelleştirilmiş integraller ve özellikleri, Çok değişkenli fonksiyonlar."
+    },
+    "NesneyeDayaliProgramlama": {
+        "Ders": "NESNEYE DAYALI PROGRAMLAMA",
+        "Kodu": "BSM 102",
+        "Yarıyıl": 2,
+        "Saat": "4+0",
+        "Kredi": 4,
+        "AKTS": 6,
+        "OnKosulDersleri": "",
+        "OnerilenSecmeliDersler": "",
+        "DersinDili": "Türkçe / İngilizce",
+        "DersinSeviyesi": "Lisans",
+        "DersinTürü": "Zorunlu",
+        "DersinKoordinatörü": "Prof.Dr. CEMİL ÖZ",
+        "DersiVeren": [
+            "Prof.Dr. ÜMİT KOCABIÇAK",
+            "Öğr.Gör. NEVZAT TAŞBAŞI",
+            "Öğr.Gör. SİNAN İLYAS",
+            "Prof.Dr. CEMİL ÖZ"
+
+
+        ],
+        "DersinYardımcıları": "Arş.Gör. Hüseyin ESKİ - Arş. Gör. Deniz DURAL",
+        "DersinAmacı": "Bu dersin amacı, etkili ve esnek nesne yönelimli yazılımlar geliştirmek için gereken nesneye yönelik programlama kavramlarını öğretmektir.",
+        "DersinIcerigi": "C++, nesne ve sınıf kavramı, kurucular ve yıkıcılar, kalıtım, çoklu kalıtım, UML, operatör aşırı yükleme, çok biçimlilik, fonksiyon aşırı yükleme ve fonksiyon ezmesi, Grafik Kullanıcı Arayüzü Tasarımı, Dosyalar, Kütüphane kullanımı"
+
+    },
+    "WebTeknolojileri": {
+    "Ders": "WEB TEKNOLOJİLERİ",
+    "Kodu": "BSM 104",
+    "Yarıyıl": 2,
+    "Saat": "3+0",
+    "Kredi": 3,
+    "AKTS": 4,
+    "OnKosulDersleri": "",
+    "OnerilenSecmeliDersler": "",
+    "DersinDili": "Türkçe",
+    "DersinSeviyesi": "Lisans",
+    "DersinTürü": "Zorunlu",
+    "DersinKoordinatörü": "Prof.Dr. ÜMİT KOCABIÇAK",
+    "DersiVeren": [
+        "Prof.Dr. ÜMİT KOCABIÇAK",
+        "Öğr.Gör. NEVZAT TAŞBAŞI",
+        "Arş.Gör.Dr. MUHAMMED FATİH ADAK"
+
+    ],
+    "DersinYardımcıları":"",
+    "DersinAmacı": "Web, Web tasarımı ve Internet teknolojileri temel kavramları verilerek, Web tabanlı uygulama geliştirme yöntemleri, Web tabanlı uygulama geliştirme teknolojilerinin (Html, Css, Javascript,JQuery, AJAX ve JSon) temel seviyede kullanım becerilerini kazandırmak.",
+    "DersinIcerigi": "Web, İnternet teknolojileri, web ve grafik tasarımı temel kavramları, Html düzenleyici programlarının temel seviyede kullanımı"
+
+},
+    "OlasilikveIstatistik": {
+        "Ders": "OLASILIK VE İSTATİSTİK",
+        "Kodu": "IST 108",
+        "Yarıyıl": 2,
+        "Saat": "3+0",
+        "Kredi": 3,
+        "AKTS": 4,
+        "OnKosulDersleri": "",
+        "OnerilenSecmeliDersler": "",
+        "DersinDili": "Türkçe",
+        "DersinSeviyesi": "Lisans",
+        "DersinTürü": "Zorunlu",
+        "DersinKoordinatörü": "Yrd.Doç.Dr. SEÇKİN ARI",
+        "DersiVeren": [
+            "Yrd.Doç.Dr. VEYSEL HARUN ŞAHİN",
+            "Arş.Gör.Dr. ABDULLAH SEVİN",
+            "Yrd.Doç.Dr. SEÇKİN ARI"
+
+        ],
+        "DersinYardımcıları":"",
+        "DersinAmacı": "Güçlü bir matematik alt yapısını kazandırmak. İnsan zihninin doğal yetilerinin sonucu yaptığı işlemleri sistematik bir düzene otuşturulması.Deneysel yada gözlemsel olarak elde edilen verilerin toplanması, düzenlenmesi ve değerlendirilmesi.Temel olasılık kavram ve fonksiyonlarının öğretilmesi.Matematik ile mühendislik ve sosyal bilimler arasındaki güçlü ilişkiyi özümsetebilme.Takım halinde çalışma yeteneğini geliştirebilmek.",
+        "DersinIcerigi": "Olasılık ve İstatistiğin Bilgisayar Mühendisliğindeki yeri, Olasılık kavramı, Koşullu olasılık, Rastgele değişkenler ve çeşitleri, beklenti ve varyans, Kesikli rastgele değişkenler ve özellikleri, sürekli rastgele değişkenler ve özellikleri, ortak dağılımlı rastgele değişkenler, betimleyici istatistik, örnekleme istatistiğinin dağılımı, hipotez testi, olasılık modellerinin bilgisayar mühendisliğine uygulamaları"
+
+    }
+
+
+}
+
+

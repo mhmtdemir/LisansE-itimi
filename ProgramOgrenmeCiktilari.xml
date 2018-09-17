@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<icerik>
+
+    <bilgiler>
+        <title>Bilgiler</title>
+        <bilgi>
+             Matematik,fen bilimleri ve ilgili mühendislik disiplinine özgü konularda yeterli bilgi birikimi; bu alanlardaki kuramsal ve uygulamalı bilgileri, karmaşık mühendislik problemlerinde kullanabilme becerisi.
+        </bilgi>
+        <bilgi>
+            Karmaşık mühendislik problemlerini saptama, tanımlama, formüle etme ve çözme becerisi; bu amaçla uygun analiz ve modelleme yöntemlerini seçme ve uygulama becerisi.
+        </bilgi>
+    </bilgiler>
+
+    <bilgiler>
+        <title>Beceriler</title>
+         <bilgi>
+        Karmaşık bir sistemi, süreci, cihazı veya ürünü gerçekçi kısıtlar ve koşullar altında, belirli gereksinimleri karşılayacak şekilde tasarlama becerisi; bu amaçla modern tasarım yöntemlerini uygulama becerisi.
+         </bilgi>
+         <bilgi>
+        Mühendislik uygulamalarında karşılaşılan karmaşık problemlerin analizi ve çözümü için gerekli olan modern teknik ve araçları geliştirme, seçme ve kullanma becerisi; bilişim teknolojilerini etkin bir şekilde kullanma becerisi.
+         </bilgi>
+         <bilgi>
+        Karmaşık mühendislik problemlerinin veya disipline özgü araştırma konularının incelenmesi için deney tasarlama, deney yapma, veri toplama, sonuçları analiz etme ve yorumlama becerisi.
+        </bilgi>
+    </bilgiler>
+
+    <bilgiler>
+        <title>Yetkinlikler</title>
+        <bilgi>
+            Bilişim Teknolojilerinin yönetim, denetim, gelişim ve güvenliği/güvenilirliği hakkında bilgi sahibi olma ve farkındalık,
+        </bilgi>
+        <bilgi>
+            Disiplin içi ve çok disiplinli takımlarda etkin biçimde çalışabilme becerisi; bireysel çalışma becerisi.
+        </bilgi>
+        <bilgi>
+             Türkçe sözlü ve yazılı etkin iletişim kurma becerisi; en az bir yabancı dil bilgisi; etkin rapor yazma ve yazılı raporları anlama, tasarım ve üretim raporları hazırlayabilme, etkin sunum yapabilme, açık ve anlaşılır talimat verme ve alma becerisi.
+        </bilgi>
+        <bilgi>
+            Yaşam boyu öğrenmenin gerekliliği bilinci; bilgiye erişebilme, bilim ve teknolojideki gelişmeleri izleme ve kendini sürekli yenileme becerisi.
+        </bilgi>
+        <bilgi>
+            Etik ilkelerine uygun davranma, mesleki ve etik sorumluluk bilinci; mühendislik uygulamalarında kullanılan standartlar hakkında bilgi.
+        </bilgi>
+        <bilgi>
+            Proje yönetimi, risk yönetimi ve değişiklik yönetimi gibi, iş hayatındaki uygulamalar hakkında bilgi; girişimcilik, yenilikçilik hakkında farkındalık; sürdürülebilir kalkınma hakkında bilgi.
+        </bilgi>
+        <bilgi>
+            Proje yönetimi, risk yönetimi ve değişiklik yönetimi gibi, iş hayatındaki uygulamalar hakkında bilgi; girişimcilik, yenilikçilik hakkında farkındalık; sürdürülebilir kalkınma hakkında bilgi.
+        </bilgi>
+        <bilgi>
+            Mühendislik uygulamalarının evrensel ve toplumsal boyutlarda sağlık, çevre ve güvenlik üzerindeki etkileri ve çağın mühendislik alanına yansıyan sorunları hakkında bilgi; mühendislik çözümlerinin hukuksal sonuçları konusunda farkındalık.
+        </bilgi>
+    </bilgiler>
+
+
+</icerik>
